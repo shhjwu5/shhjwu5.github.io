@@ -4,7 +4,7 @@ This is the homepage of shhjwu5 which contains the weekly report, the essay note
 
 ## Weekly reports
 
-The newest weekly report is saved in README.md in [Weekly Reports](https://github.com/shhjwu5/Weekly-Reports).
+The newest weekly report is saved in README.md in [Weekly Reports](https://github.com/AISIGSJTU/Weekly-Report-Hongjian-Shi).
 The other weekly reports are saved in the corresponding files in the url.
 
 ## Essay Notes
