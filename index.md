@@ -24,3 +24,15 @@ Hongjian Shi is currently a PhD student at Shanghai Jiao Tong University. His re
 [5] Yunhui Wang, Zifei Liu, Weichu Zheng, Jinyan Wang, Hongjian Shi, and Mingyu Gu. A Combined Multi-Classification Network Intrusion Detection System Based on Feature Selection and Neural Network Improvement. Applied Sciences, vol. 13, no. 14, pp. 8307. [link](https://doi.org/10.3390/app13148307)
 
 [6] Hongjian Shi, Ruhui Ma, Dongmei Li, and Haibing Guan. Hierarchical Adaptive Collaborative Learning: A Distributed Learning Framework for Customized Cloud Services in 6G Mobile Systems. IEEE Network, vol. 37, no. 2, pp. 44-53, 2023. [link](https://doi.org/10.1109/MNET.001.2200382)
+
+[7] Tingting Tian, Hongjian Shi, Ruhui Ma, Yuan Liu. FedACQ: Adaptive Clustering Quantization of Model Parameters in Federated Learning. International Journal of Web Information Systems, 2023.
+
+[8] Ruhui Ma, Hongjian Shi, Honghao Gao, Haibing Guan, Muddesar Iqbal, Shahid Mumtaz. cFedDT: Cross-domain Federated Learning in Digital Twins for Metaverse Consumer Electronic Products. IEEE Transactions on Consumer Electronics, 2023.
+
+[9] Hongjian Shi, Ilyas Bayanbayev, Wenkai Zheng, Ruhui Ma, Haibing Guan. Cloud-based Collaborative Agricultural Learning with Flexible Model Size and Adaptive Batch Number. ACM Transactions on Sensor Networks, 2023. [link](https://dl.acm.org/doi/abs/10.1145/3628431)
+
+[10] Hongjian Shi, Meng Zhang, Ruhui Ma, Liwei Lin, Rui Zhang, Haibing Guan. Edge Caching Placement Strategy based on Evolutionary Game for Conversational Information Seeking in Edge Cloud Computing. ACM Transactions on the Web, 2023. [link](https://dl.acm.org/doi/abs/10.1145/3624985)
+
+[11] 施宏建，马汝辉，张卫山，管海兵。基于区块链辅助的半中心化联邦学习框架。计算机研究与发展，2023.
+
+[12] Hongjian Shi, Ruhui Ma, Haibing Guan, Weishan Zhang. FedCPSO: Federated Learning with Combined Particle Swarm Optimization. China Automation Congress, 2023.
