@@ -4,7 +4,21 @@ This is the homepage of Hongjian Shi.
 
 ## Introduction
 
-Hongjian Shi is currently a PhD student at Shanghai Jiao Tong University. His research interests include Cloud Computing, Distributed Machine Learning, AI Systems, and Federated Learning.
+Hongjian Shi is currently a PhD student at Shanghai Jiao Tong University. His research interests include Cloud Computing, Distributed Machine Learning, AI Systems, and Federated Learning. He has published 12 scientific papers.
+
+|Reference|CCF|SCI|Author|Influence Score|Self citation|
+|[1]|B|3|First|5.1|5.90%|
+|[2]|-|3|First|5|10.00%|
+|[3]|A|1|First|16.4|4.30%|
+|[4]|-|3|Corresponding|2.9|10.30%|
+|[5]|-|4|Corresponding|2.7|11.10%|
+|[6]|-|2|First|9.3|2.20%|
+|[7]|-|-|-|1.6|0.00%|
+|[8]|-|2|-|4.3|9.30%|
+|[9]|B|4|First|4.1|7.30%|
+|[10]|B|3|First|3.5|0.00%|
+|[11]|A|-|First|-|-|
+|[12]|-|-|First|-|-|
 
 ## Education
 
