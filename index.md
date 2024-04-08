@@ -36,17 +36,31 @@ E-mail: shhjwu5@sjtu.edu.cn
 ## Published Papers
 
 [1] **Hongjian Shi**, Weichu Zheng, Zifei Liu, Ruhui Ma, and Haibing Guan. Automatic Pipeline Parallelism: A Parallel Inference Framework for Deep Learning Applications in 6G Mobile Communication Systems. IEEE Journal on Selected Areas in Communications, vol. 41, no. 7, pp. 2041-2056, 2023. 
+
 [2] **施宏建**，马汝辉，张卫山，管海兵。基于区块链辅助的半中心化联邦学习框架。计算机研究与发展，60卷，11期，2567-2582页，2023.
+
 [3] **Hongjian Shi**, Hao Wang, Ruhui Ma, Yang Hua, Tao Song, Honghao Gao, and Haibing Guan. Robust Searching-Based Gradient Collaborative Management in Intelligent Transportation System. ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 20, no. 2, pp. 1-23, 2023. 
+
 [4] **Hongjian Shi**, Ilyas Bayanbayev, Wenkai Zheng, Ruhui Ma, Haibing Guan. Cloud-based Collaborative Agricultural Learning with Flexible Model Size and Adaptive Batch Number. ACM Transactions on Sensor Networks, Just Accepted, 2023. 
+
 [5] **Hongjian Shi**, Meng Zhang, Ruhui Ma, Liwei Lin, Rui Zhang, Haibing Guan. Edge Caching Placement Strategy based on Evolutionary Game for Conversational Information Seeking in Edge Cloud Computing. ACM Transactions on the Web, Just Accepted, 2023. 
+
 [6] **Hongjian Shi**, Ruhui Ma, Dongmei Li, and Haibing Guan. Hierarchical Adaptive Collaborative Learning: A Distributed Learning Framework for Customized Cloud Services in 6G Mobile Systems. IEEE Network, vol. 37, no. 2, pp. 44-53, 2023. 
+
 [7] **Hongjian Shi**, Jianqing Zhang, Shuming Fan, Ruhui Ma, and Haibing Guan. pFedEff: An Efficient and Personalized Federated Cognitive Learning Framework in Multi-agent Systems. IEEE Transactions on Cognitive and Developmental Systems, vol. 16, no. 1, pp. 31-45, 2023. 
+
 [8] **Hongjian Shi**, Ruhui Ma, Haibing Guan, Weishan Zhang. FedCPSO: Federated Learning with Combined Particle Swarm Optimization. China Automation Congress, 2023.
+
 [9] Ruhui Ma, **Hongjian Shi**, Honghao Gao, Haibing Guan, Muddesar Iqbal, Shahid Mumtaz. cFedDT: Cross-domain Federated Learning in Digital Twins for Metaverse Consumer Electronic Products. IEEE Transactions on Consumer Electronics, Early Access, 2023.
+
 [10] Yunhui Wang, Weichu Zheng, Zifei Liu, Jinyan Wang, **Hongjian Shi**, Mingyu Gu, and Yicheng Di. A Federated Network Intrusion Detection System with Multi-Branch Network and Vertical Blocking Aggregation. Electronics, vol. 12, no. 19, pp. 4049, 2023. 
+
 [11] Yunhui Wang, Zifei Liu, Weichu Zheng, Jinyan Wang, **Hongjian Shi**, and Mingyu Gu. A Combined Multi-Classification Network Intrusion Detection System Based on Feature Selection and Neural Network Improvement. Applied Sciences, vol. 13, no. 14, pp. 8307, 2023.
+
 [12] Zhijie Wang, Ruhui Ma, **Hongjian Shi**, Zinuo Cai, Liwei Lin, Haibing Guan. Deep Convolutional Linear Precoder Neural Network for Rate Splitting Strategy of Aerial Computing Networks. IEEE Transactions on Network Science and Engineering, Early Access, 2024.
+
 [13] Meng Zhang, **Hongjian Shi**, Ruhui Ma. Edge-Distributed IoT Services Assist the Economic Sustainability of LEO Satellite Constellation Construction. Sustainability, vol. 16, no. 4, pp. 1599, 2024.
+
 [14] Tingting Tian, **Hongjian Shi**, Ruhui Ma, Yuan Liu. FedACQ: Adaptive Clustering Quantization of Model Parameters in Federated Learning. International Journal of Web Information Systems, vol. 20, no. 1, pp. 88-110, 2023.
+
 [15] Zhijie Wang, Ruhui Ma, **Hongjian Shi**, Liwei Lin, Haibing Guan. Batch Gradient Descent-based Optimization of WMMSE for Rate Splitting Strategy. International Symposium on Wireless Communication Systems, 2022.
