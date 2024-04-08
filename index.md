@@ -10,6 +10,13 @@ Hongjian Shi is currently a Ph.D. student at Shanghai Jiao Tong University. His 
 
 E-mail: shhjwu5@sjtu.edu.cn
 
+## Education
+
+- 2017.9.1 - 2021.7.15 Bachelor, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China
+- 2021.9.1 - present Ph.D., School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China
+
+## Published Papers
+
 |Reference|CCF|SCI|Author|Influence Score|Self citation|link|Status|
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |[1]**AP2**|A|1|First|16.4|4.30%|[link](https://doi.org/10.1109/JSAC.2023.3280970)|Published|
@@ -27,13 +34,6 @@ E-mail: shhjwu5@sjtu.edu.cn
 |[13]**EDIJP**|-|3|-|3.9|20.50%|[link](http://dx.doi.org/10.3390/su16041599)|Published|
 |[14]**FedACQ**|-|-|-|1.6|0.00%|[link](http://dx.doi.org/10.1108/IJWIS-08-2023-0128)|Published|
 |[15]**BGD-WMMSE**|-|-|-|-|-|[link](http://dx.doi.org/10.1109/ISWCS56560.2022.9940341)|Published|
-
-## Education
-
-- 2017.9.1 - 2021.7.15 Bachelor, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China
-- 2021.9.1 - present Ph.D., School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China
-
-## Published Papers
 
 [1] **Hongjian Shi**, Weichu Zheng, Zifei Liu, Ruhui Ma, and Haibing Guan. Automatic Pipeline Parallelism: A Parallel Inference Framework for Deep Learning Applications in 6G Mobile Communication Systems. IEEE Journal on Selected Areas in Communications, vol. 41, no. 7, pp. 2041-2056, 2023. 
 
