@@ -26,7 +26,7 @@ E-mail: shhjwu5@sjtu.edu.cn
 |[5]**EG-CPS**|B|3|First|3.5|0.00%|[link](https://dl.acm.org/doi/abs/10.1145/3624985)|Just Accepted|
 |[6]**HACL**|-|2|First|9.3|2.20%|[link](https://doi.org/10.1109/MNET.001.2200382)|Published|
 |[7]**pFedEff**|-|3|First|5|10.00%|[link](https://doi.org/10.1109/TCDS.2023.3288985)|Published|
-|[8]**FedCPSO**|-|-|First|-|-|[link](http://dx.doi.org/10.1109/CAC59555.2023.10451632)|Accepted|
+|[8]**FedCPSO**|-|-|First|-|-|[link](http://dx.doi.org/10.1109/CAC59555.2023.10451632)|Published|
 |[9]**cFedDT**|-|2|-|4.3|9.30%|[link](http://dx.doi.org/10.1109/TCE.2023.3327010)|Early Access|
 |[10]**FedVB**|-|3|Corresponding|2.9|10.30%|[link](https://doi.org/10.3390/electronics12194049)|Published|
 |[11]**NIDS-FS**|-|4|Corresponding|2.7|11.10%|[link](https://doi.org/10.3390/app13148307)|Published|
@@ -34,6 +34,8 @@ E-mail: shhjwu5@sjtu.edu.cn
 |[13]**EDIJP**|-|3|-|3.9|20.50%|[link](http://dx.doi.org/10.3390/su16041599)|Published|
 |[14]**FedACQ**|-|-|-|1.6|0.00%|[link](http://dx.doi.org/10.1108/IJWIS-08-2023-0128)|Published|
 |[15]**BGD-WMMSE**|-|-|-|-|-|[link](http://dx.doi.org/10.1109/ISWCS56560.2022.9940341)|Published|
+|[16]**FedREAS**|C|4|-|1.8|22.20%|[link](https://doi.org/10.1145/3670689)|Just Accepted|
+|[17]**FedRL**|-|-|-|-|-|[link](https://doi.org/10.1145/3682076)|Just Accepted|
 
 [1] **Hongjian Shi**, Weichu Zheng, Zifei Liu, Ruhui Ma, and Haibing Guan. Automatic Pipeline Parallelism: A Parallel Inference Framework for Deep Learning Applications in 6G Mobile Communication Systems. IEEE Journal on Selected Areas in Communications, vol. 41, no. 7, pp. 2041-2056, 2023. 
 
@@ -64,3 +66,7 @@ E-mail: shhjwu5@sjtu.edu.cn
 [14] Tingting Tian, **Hongjian Shi**, Ruhui Ma, Yuan Liu. FedACQ: Adaptive Clustering Quantization of Model Parameters in Federated Learning. International Journal of Web Information Systems, vol. 20, no. 1, pp. 88-110, 2023.
 
 [15] Zhijie Wang, Ruhui Ma, **Hongjian Shi**, Liwei Lin, Haibing Guan. Batch Gradient Descent-based Optimization of WMMSE for Rate Splitting Strategy. International Symposium on Wireless Communication Systems, 2022.
+
+[16] Shuming Fan, Chenpei Wang, Xinyu Ruan, **Hongjian Shi**, Ruhui Ma, Haibing Guan. FedREAS: A Robust Efficient Aggregation and Selection Framework for Federated Learning. ACM Transactions on Asian and Low-Resource Language Information Processing, Just Accepted, 2024.
+
+[17] Yicheng Di, **Hongjian Shi**, Ruhui Ma, Honghao Gao, Yuan Liu, Weiyu Wang. FedRL: A Reinforcement Learning Federated Recommender System for Efficient Communication Using Reinforcement Selector and Hypernet Generator. ACM Transactions on Recommender Systems, Just Accepted, 2024.
