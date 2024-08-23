@@ -70,3 +70,5 @@ E-mail: shhjwu5@sjtu.edu.cn
 [16] Shuming Fan, Chenpei Wang, Xinyu Ruan, **Hongjian Shi**, Ruhui Ma, Haibing Guan. FedREAS: A Robust Efficient Aggregation and Selection Framework for Federated Learning. ACM Transactions on Asian and Low-Resource Language Information Processing, Just Accepted, 2024.
 
 [17] Yicheng Di, **Hongjian Shi**, Ruhui Ma, Honghao Gao, Yuan Liu, Weiyu Wang. FedRL: A Reinforcement Learning Federated Recommender System for Efficient Communication Using Reinforcement Selector and Hypernet Generator. ACM Transactions on Recommender Systems, Just Accepted, 2024.
+
+[18] Yicheng Di, **Hongjian Shi**, Xiaoming Wang, Ruhui Ma, Yuan Liu. Federated Recommender System Based on Diffusion Augmentation and Guided Denoising. ACM Transactions on Information Systems, Just Accepted, 2024.
