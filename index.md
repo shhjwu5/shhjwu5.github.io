@@ -4,7 +4,7 @@ This is the homepage of Hongjian Shi.
 
 ## Introduction
 
-Hongjian Shi is currently a Ph.D. student at Shanghai Jiao Tong University. His research interests include Cloud Computing, Distributed Machine Learning, AI Systems, and Federated Learning. He has published 12 scientific papers.
+Hongjian Shi is currently a Ph.D. student at Shanghai Jiao Tong University. His research interests include Cloud Computing, Distributed Machine Learning, AI Systems, and Federated Learning. He has published 18 scientific papers.
 
 ## Contact Information
 
@@ -36,6 +36,7 @@ E-mail: shhjwu5@sjtu.edu.cn
 |[15]**BGD-WMMSE**|-|-|-|-|-|[link](http://dx.doi.org/10.1109/ISWCS56560.2022.9940341)|Published|
 |[16]**FedREAS**|C|4|-|1.8|22.20%|[link](https://doi.org/10.1145/3670689)|Just Accepted|
 |[17]**FedRL**|-|-|-|-|-|[link](https://doi.org/10.1145/3682076)|Just Accepted|
+|[18]**DGFedRS**|A|2|-|5.4|14.80%|[link](https://dl.acm.org/doi/10.1145/3688570)|Just Accepted|
 
 [1] **Hongjian Shi**, Weichu Zheng, Zifei Liu, Ruhui Ma, and Haibing Guan. Automatic Pipeline Parallelism: A Parallel Inference Framework for Deep Learning Applications in 6G Mobile Communication Systems. IEEE Journal on Selected Areas in Communications, vol. 41, no. 7, pp. 2041-2056, 2023. 
 
