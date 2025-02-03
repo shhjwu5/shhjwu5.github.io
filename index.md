@@ -31,15 +31,15 @@ E-mail: shhjwu5@sjtu.edu.cn
 |[9]**cFedDT**|-|2|-|4.3|9.30%|[link](http://dx.doi.org/10.1109/TCE.2023.3327010)|Early Access|
 |[10]**FedVB**|-|3|Corresponding|2.9|10.30%|[link](https://doi.org/10.3390/electronics12194049)|Published|
 |[11]**NIDS-FS**|-|4|Corresponding|2.7|11.10%|[link](https://doi.org/10.3390/app13148307)|Published|
-
 |[12]**DGFedRS**|A|2|-|5.4|14.80%|[link](https://dl.acm.org/doi/10.1145/3688570)|Just Accepted|
-|[13]**FedREAS**|C|4|-|1.8|22.20%|[link](https://doi.org/10.1145/3670689)|Just Accepted|
-|[9]**PCFedRec**|-|2|-|4.3|9.30%|[link](http://dx.doi.org/10.1109/TCE.2023.3327010)|Early Access|
-|[15]**RSMA+CSI**|-|2|-|6.6|9.10%|[link](http://dx.doi.org/10.1109/TNSE.2024.3357104)|Early Access|
-|[16]**EDIJP**|-|3|-|3.9|20.50%|[link](http://dx.doi.org/10.3390/su16041599)|Published|
-|[17]**FedACQ**|-|-|-|1.6|0.00%|[link](http://dx.doi.org/10.1108/IJWIS-08-2023-0128)|Published|
-|[18]**BGD-WMMSE**|-|-|-|-|-|[link](http://dx.doi.org/10.1109/ISWCS56560.2022.9940341)|Published|
-|[19]**FedRL**|-|-|-|-|-|[link](https://doi.org/10.1145/3682076)|Just Accepted|
+|[13]**FedSR**|B|-|-|-|-|[link]()|Accepted|
+|[14]**FedREAS**|C|4|-|1.8|22.20%|[link](https://doi.org/10.1145/3670689)|Just Accepted|
+|[15]**PCFedRec**|-|2|-|4.3|9.30%|[link](http://dx.doi.org/10.1109/TCE.2023.3327010)|Early Access|
+|[16]**RSMA+CSI**|-|2|-|6.6|9.10%|[link](http://dx.doi.org/10.1109/TNSE.2024.3357104)|Early Access|
+|[17]**EDIJP**|-|3|-|3.9|20.50%|[link](http://dx.doi.org/10.3390/su16041599)|Published|
+|[18]**FedACQ**|-|-|-|1.6|0.00%|[link](http://dx.doi.org/10.1108/IJWIS-08-2023-0128)|Published|
+|[19]**BGD-WMMSE**|-|-|-|-|-|[link](http://dx.doi.org/10.1109/ISWCS56560.2022.9940341)|Published|
+|[20]**FedRL**|-|-|-|-|-|[link](https://doi.org/10.1145/3682076)|Just Accepted|
 
 
 
@@ -67,18 +67,20 @@ E-mail: shhjwu5@sjtu.edu.cn
 
 [12] Yicheng Di, **Hongjian Shi**, Xiaoming Wang, Ruhui Ma, Yuan Liu. Federated Recommender System Based on Diffusion Augmentation and Guided Denoising. ACM Transactions on Information Systems, Just Accepted, 2024.
 
-[13] Shuming Fan, Chenpei Wang, Xinyu Ruan, **Hongjian Shi**, Ruhui Ma, Haibing Guan. FedREAS: A Robust Efficient Aggregation and Selection Framework for Federated Learning. ACM Transactions on Asian and Low-Resource Language Information Processing, Just Accepted, 2024.
+[13] Yicheng Di, **Hongjian Shi**, Ruhui Ma, Yuan Liu, Weiyu Wang. Fine-Grained Global Modeling Learning for Personalized Federated Sequential Recommender. Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing, Accepted, 2025.
 
-[14] Yicheng Di, Xiaoming Wang, **Hongjian Shi**, Chongsheng Fan, Rong Zhou, Ruhui Ma. Personalized Consumer Federated Recommender System Using Fine-grained Transformation and Hybrid Information Sharing. IEEE Transactions on Consumer Electronics, Early Access, 2025.
+[14] Shuming Fan, Chenpei Wang, Xinyu Ruan, **Hongjian Shi**, Ruhui Ma, Haibing Guan. FedREAS: A Robust Efficient Aggregation and Selection Framework for Federated Learning. ACM Transactions on Asian and Low-Resource Language Information Processing, Just Accepted, 2024.
 
-[15] Zhijie Wang, Ruhui Ma, **Hongjian Shi**, Zinuo Cai, Liwei Lin, Haibing Guan. Deep Convolutional Linear Precoder Neural Network for Rate Splitting Strategy of Aerial Computing Networks. IEEE Transactions on Network Science and Engineering, Early Access, 2024.
+[15] Yicheng Di, Xiaoming Wang, **Hongjian Shi**, Chongsheng Fan, Rong Zhou, Ruhui Ma. Personalized Consumer Federated Recommender System Using Fine-grained Transformation and Hybrid Information Sharing. IEEE Transactions on Consumer Electronics, Early Access, 2025.
 
-[16] Meng Zhang, **Hongjian Shi**, Ruhui Ma. Edge-Distributed IoT Services Assist the Economic Sustainability of LEO Satellite Constellation Construction. Sustainability, vol. 16, no. 4, pp. 1599, 2024.
+[16] Zhijie Wang, Ruhui Ma, **Hongjian Shi**, Zinuo Cai, Liwei Lin, Haibing Guan. Deep Convolutional Linear Precoder Neural Network for Rate Splitting Strategy of Aerial Computing Networks. IEEE Transactions on Network Science and Engineering, Early Access, 2024.
 
-[17] Tingting Tian, **Hongjian Shi**, Ruhui Ma, Yuan Liu. FedACQ: Adaptive Clustering Quantization of Model Parameters in Federated Learning. International Journal of Web Information Systems, vol. 20, no. 1, pp. 88-110, 2023.
+[17] Meng Zhang, **Hongjian Shi**, Ruhui Ma. Edge-Distributed IoT Services Assist the Economic Sustainability of LEO Satellite Constellation Construction. Sustainability, vol. 16, no. 4, pp. 1599, 2024.
 
-[18] Zhijie Wang, Ruhui Ma, **Hongjian Shi**, Liwei Lin, Haibing Guan. Batch Gradient Descent-based Optimization of WMMSE for Rate Splitting Strategy. International Symposium on Wireless Communication Systems, 2022.
+[18] Tingting Tian, **Hongjian Shi**, Ruhui Ma, Yuan Liu. FedACQ: Adaptive Clustering Quantization of Model Parameters in Federated Learning. International Journal of Web Information Systems, vol. 20, no. 1, pp. 88-110, 2023.
 
-[19] Yicheng Di, **Hongjian Shi**, Ruhui Ma, Honghao Gao, Yuan Liu, Weiyu Wang. FedRL: A Reinforcement Learning Federated Recommender System for Efficient Communication Using Reinforcement Selector and Hypernet Generator. ACM Transactions on Recommender Systems, Just Accepted, 2024.
+[19] Zhijie Wang, Ruhui Ma, **Hongjian Shi**, Liwei Lin, Haibing Guan. Batch Gradient Descent-based Optimization of WMMSE for Rate Splitting Strategy. International Symposium on Wireless Communication Systems, 2022.
+
+[20] Yicheng Di, **Hongjian Shi**, Ruhui Ma, Honghao Gao, Yuan Liu, Weiyu Wang. FedRL: A Reinforcement Learning Federated Recommender System for Efficient Communication Using Reinforcement Selector and Hypernet Generator. ACM Transactions on Recommender Systems, Just Accepted, 2024.
 
 
