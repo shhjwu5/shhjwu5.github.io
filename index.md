@@ -27,21 +27,21 @@ E-mail: shhjwu5@sjtu.edu.cn
 |[5]**EG-CPS**|B|3|First|3.5|0.00%|[link](https://dl.acm.org/doi/abs/10.1145/3624985)|Published|2024-10-08|
 |[6]**HACL**|-|2|First|9.3|2.20%|[link](https://doi.org/10.1109/MNET.001.2200382)|Published|2023-09-05|
 |[7]**pFedEff**|-|3|First|5|10.00%|[link](https://doi.org/10.1109/TCDS.2023.3288985)|Published|2023-06-26|
-|[8]|**eFRSA2**|-|-|First|-|-|[link](https://dl.acm.org/doi/10.1145/3704267)|Published|2025-03-22|
+|[8]**eFRSA2**|-|-|First|-|-|[link](https://dl.acm.org/doi/10.1145/3704267)|Published|2025-03-22|
 |[9]**FedCPSO**|-|-|First|-|-|[link](http://dx.doi.org/10.1109/CAC59555.2023.10451632)|Published|2024-03-19|
 |[10]**cFedDT**|-|2|-|4.3|9.30%|[link](http://dx.doi.org/10.1109/TCE.2023.3327010)|Published|2023-10-24|
 |[11]**FedVB**|-|3|Corresponding|2.9|10.30%|[link](https://doi.org/10.3390/electronics12194049)|Published|2023-09-27|
 |[12]**NIDS-FS**|-|4|Corresponding|2.7|11.10%|[link](https://doi.org/10.3390/app13148307)|Published|2023-07-18|
 |[13]**DGFedRS**|A|2|-|5.4|14.80%|[link](https://dl.acm.org/doi/10.1145/3688570)|Published|2025-01-17|
 |[14]**RFL-LSU**|B|3|-|4.1|2.40%|[link](https://dl.acm.org/doi/abs/10.1145/3690822)|Published|2024-11-15|
-|[15]|**FedBP**|B|4|-|3.1|6.50%|[link](https://dl.acm.org/doi/10.1007/s10115-024-02316-y)|Published|2024-12-30|
-|[16]|**FedMS**|B|4|-|3.1|6.50%|[link](https://link.springer.com/article/10.1007/s10115-025-02433-2)|Published|2025-04-24|
+|[15]**FedBP**|B|4|-|3.1|6.50%|[link](https://dl.acm.org/doi/10.1007/s10115-024-02316-y)|Published|2024-12-30|
+|[16]**FedMS**|B|4|-|3.1|6.50%|[link](https://link.springer.com/article/10.1007/s10115-025-02433-2)|Published|2025-04-24|
 |[17]**FedSR**|B|-|-|-|-|[link](https://doi.org/10.1109/ICASSP49660.2025.10889033)|Accepted|2025-03-07|
-|[18]|**Fed-CCSQMA**|C|2|-|8.9|15.70%|[link](https://doi.org/10.1109/JIOT.2025.3572901)|Early Access|2025-05-23|
+|[18]**Fed-CCSQMA**|C|2|-|8.9|15.70%|[link](https://doi.org/10.1109/JIOT.2025.3572901)|Early Access|2025-05-23|
 |[19]**FedREAS**|C|4|-|1.8|22.20%|[link](https://doi.org/10.1145/3670689)|Just Accepted|2024-06-04|
 |[20]**RSMA+CSI**|-|2|-|6.6|9.10%|[link](http://dx.doi.org/10.1109/TNSE.2024.3357104)|Published|2024-01-23|
 |[21]**PCFedRec**|-|2|-|4.3|9.30%|[link](https://doi.org/10.1109/TCE.2025.3526427)|Published|2025-01-06|
-|[22]|**BFL-SE**|-|2|-|3.4|20.60%|[link](https://doi.org/10.1016/j.displa.2025.103210)|Published|2025-09-08|
+|[22]**BFL-SE**|-|2|-|3.4|20.60%|[link](https://doi.org/10.1016/j.displa.2025.103210)|Published|2025-09-08|
 |[23]**EDIJP**|-|3|-|3.9|20.50%|[link](http://dx.doi.org/10.3390/su16041599)|Published|2024-02-14|
 |[24]**FedACQ**|-|-|-|1.6|0.00%|[link](http://dx.doi.org/10.1108/IJWIS-08-2023-0128)|Published|2023-10-22|
 |[25]**BGD-WMMSE**|-|-|-|-|-|[link](http://dx.doi.org/10.1109/ISWCS56560.2022.9940341)|Published|2022-11-16|
