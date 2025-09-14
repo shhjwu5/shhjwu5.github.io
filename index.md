@@ -19,7 +19,7 @@ E-mail: shhjwu5@sjtu.edu.cn
 ## Published Papers
 
 |Reference|CCF|SCI|Author|Influence Score|Self citation|link|Status|Date|
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 |[1]**AP2**|A|1|First|16.4|4.30%|[link](https://doi.org/10.1109/JSAC.2023.3280970)|Published|2023-05-29|
 |[2]**半中心化**|T1|-|First|-|-|[link](https://doi.org/10.7544/issn1000-1239.202330286)|Published|2023-11-15|
 |[3]**RSGCM**|B|3|First|5.1|5.90%|[link](https://doi.org/10.1145/3549939)|Published|2023-09-27|
