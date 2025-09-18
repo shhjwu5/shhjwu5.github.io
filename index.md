@@ -76,7 +76,7 @@ E-mail: shhjwu5@sjtu.edu.cn
 
 [14] Shuming Fan, **Hongjian Shi**, Chenpei Wang, Ruhui Ma, Xiaoming Wang. RFL-LSU: A Robust Federated Learning Approach with Localized Stepwise Updates. ACM Transactions on Internet Technology, vol. 24, no. 4, pp. 1-26, 2024.
 
-[15] Yicheng Di, **Hongjian Shi**, Qi Wang, Shunyuan Jia, Jiayu Bao, Yuan Liu. Knowledge and Information Systems, vol. 67, no. 3, pp. 2935-2965, 2024.
+[15] Yicheng Di, **Hongjian Shi**, Qi Wang, Shunyuan Jia, Jiayu Bao, Yuan Liu. Federated cross-domain recommendation system based on bias eliminator and personalized extractor. Knowledge and Information Systems, vol. 67, no. 3, pp. 2935-2965, 2024.
 
 [16] Yicheng Di, **Hongjian Shi**, Jiansong Fan, Jiayu Bao, Gaoyuan Huang, Yuan Liu. Efficient federated recommender system based on Slimify Module and Feature Sharpening Module. Knowledge and Information Systems, vol. 67, pp. 6611-6644, 2025.
 
