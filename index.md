@@ -14,7 +14,7 @@ E-mail: shhjwu5@sjtu.edu.cn
 ## Education
 
 - 2017.9.1 - 2021.7.15 Bachelor, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China
-- 2021.9.1 - present Ph.D., School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China
+- 2021.9.1 - present Ph.D., School of Computer Science, Shanghai Jiao Tong University, Shanghai, China
 
 ## Published Papers
 
@@ -39,66 +39,46 @@ E-mail: shhjwu5@sjtu.edu.cn
 |[17]**FedSR**|B|-|-|-|-|[link](https://doi.org/10.1109/ICASSP49660.2025.10889033)|Accepted|2025-03-07|
 |[18]**Fed-CCSQMA**|C|2|-|8.9|15.70%|[link](https://doi.org/10.1109/JIOT.2025.3572901)|Early Access|2025-05-23|
 |[19]**FedREAS**|C|4|-|1.8|22.20%|[link](https://doi.org/10.1145/3670689)|Just Accepted|2024-06-04|
-|[20]**RSMA+CSI**|-|2|-|6.6|9.10%|[link](http://dx.doi.org/10.1109/TNSE.2024.3357104)|Published|2024-01-23|
-|[21]**PCFedRec**|-|2|-|4.3|9.30%|[link](https://doi.org/10.1109/TCE.2025.3526427)|Published|2025-01-06|
-|[22]**BFL-SE**|-|2|-|3.4|20.60%|[link](https://doi.org/10.1016/j.displa.2025.103210)|Published|2025-09-08|
-|[23]**EDIJP**|-|3|-|3.9|20.50%|[link](http://dx.doi.org/10.3390/su16041599)|Published|2024-02-14|
-|[24]**FedACQ**|-|-|-|1.6|0.00%|[link](http://dx.doi.org/10.1108/IJWIS-08-2023-0128)|Published|2023-10-22|
-|[25]**BGD-WMMSE**|-|-|-|-|-|[link](http://dx.doi.org/10.1109/ISWCS56560.2022.9940341)|Published|2022-11-16|
-|[26]**FedRL**|-|-|-|-|-|[link](https://doi.org/10.1145/3682076)|Published|2025-07-29|
-
+|[20]**PIFGSR**|-|1|-|15.5|10.30%|[link](https://doi.org/10.1016/j.inffus.2025.104004)|Published|2025-11-27|
+|[21]**RSMA+CSI**|-|2|-|6.6|9.10%|[link](http://dx.doi.org/10.1109/TNSE.2024.3357104)|Published|2024-01-23|
+|[22]**PCFedRec**|-|2|-|4.3|9.30%|[link](https://doi.org/10.1109/TCE.2025.3526427)|Published|2025-01-06|
+|[23]**BFL-SE**|-|2|-|3.4|20.60%|[link](https://doi.org/10.1016/j.displa.2025.103210)|Published|2025-09-08|
+|[24]**DiffDRG**|-|2|-|4.3|9.30%|[link](https://doi.org/10.1109/TCE.2025.3624922)|Early Access|2025-10-23|
+|[25]**EDIJP**|-|3|-|3.9|20.50%|[link](http://dx.doi.org/10.3390/su16041599)|Published|2024-02-14|
+|[26]**FedACQ**|-|-|-|1.6|0.00%|[link](http://dx.doi.org/10.1108/IJWIS-08-2023-0128)|Published|2023-10-22|
+|[27]**BGD-WMMSE**|-|-|-|-|-|[link](http://dx.doi.org/10.1109/ISWCS56560.2022.9940341)|Published|2022-11-16|
+|[28]**FedRL**|-|-|-|-|-|[link](https://doi.org/10.1145/3682076)|Published|2025-07-29|
+|[29]**FedBW**|-|3|-|3|10.00%|[link](https://doi.org/10.23919/cje.2023.00.424)|Published|2025-5|
 
 [1] **Hongjian Shi**, Weichu Zheng, Zifei Liu, Ruhui Ma, and Haibing Guan. Automatic Pipeline Parallelism: A Parallel Inference Framework for Deep Learning Applications in 6G Mobile Communication Systems. IEEE Journal on Selected Areas in Communications, vol. 41, no. 7, pp. 2041-2056, 2023. 
-
 [2] **施宏建**，马汝辉，张卫山，管海兵。基于区块链辅助的半中心化联邦学习框架。计算机研究与发展，60卷，11期，2567-2582页，2023.
-
 [3] **Hongjian Shi**, Hao Wang, Ruhui Ma, Yang Hua, Tao Song, Honghao Gao, and Haibing Guan. Robust Searching-Based Gradient Collaborative Management in Intelligent Transportation System. ACM Transactions on Multimedia Computing, Communications, and Applications, vol. 20, no. 2, pp. 1-23, 2023. 
-
 [4] **Hongjian Shi**, Ilyas Bayanbayev, Wenkai Zheng, Ruhui Ma, Haibing Guan. Cloud-based Collaborative Agricultural Learning with Flexible Model Size and Adaptive Batch Number. ACM Transactions on Sensor Networks, Just Accepted, 2023. 
-
 [5] **Hongjian Shi**, Meng Zhang, Ruhui Ma, Liwei Lin, Rui Zhang, Haibing Guan. Edge Caching Placement Strategy based on Evolutionary Game for Conversational Information Seeking in Edge Cloud Computing. ACM Transactions on the Web, vol. 18, no. 4, pp. 1-23, 2024. 
-
 [6] **Hongjian Shi**, Ruhui Ma, Dongmei Li, and Haibing Guan. Hierarchical Adaptive Collaborative Learning: A Distributed Learning Framework for Customized Cloud Services in 6G Mobile Systems. IEEE Network, vol. 37, no. 2, pp. 44-53, 2023. 
-
 [7] **Hongjian Shi**, Jianqing Zhang, Shuming Fan, Ruhui Ma, and Haibing Guan. pFedEff: An Efficient and Personalized Federated Cognitive Learning Framework in Multi-agent Systems. IEEE Transactions on Cognitive and Developmental Systems, vol. 16, no. 1, pp. 31-45, 2023. 
-
 [8] **Hongjian Shi**, Yicheng Di, Xinyu Ruan, Mingrui Liao, Qian Zhang, Ruhui Ma, Haibing Guan. Efficient Federated Recommender System with Adaptive Model Pruning and Momentum-based Batch Adjustment. ACM Transactions on Recommender Systems, vol. 3, no. 3, pp. 1-23, 2025.
-
 [9] **Hongjian Shi**, Ruhui Ma, Haibing Guan, Weishan Zhang. FedCPSO: Federated Learning with Combined Particle Swarm Optimization. China Automation Congress, 2023.
-
 [10] Ruhui Ma, **Hongjian Shi**, Honghao Gao, Haibing Guan, Muddesar Iqbal, Shahid Mumtaz. cFedDT: Cross-domain Federated Learning in Digital Twins for Metaverse Consumer Electronic Products. IEEE Transactions on Consumer Electronics, vol. 70, no. 1, pp. 3167-3182, 2023.
-
 [11] Yunhui Wang, Weichu Zheng, Zifei Liu, Jinyan Wang, **Hongjian Shi**, Mingyu Gu, and Yicheng Di. A Federated Network Intrusion Detection System with Multi-Branch Network and Vertical Blocking Aggregation. Electronics, vol. 12, no. 19, pp. 4049, 2023. 
-
 [12] Yunhui Wang, Zifei Liu, Weichu Zheng, Jinyan Wang, **Hongjian Shi**, and Mingyu Gu. A Combined Multi-Classification Network Intrusion Detection System Based on Feature Selection and Neural Network Improvement. Applied Sciences, vol. 13, no. 14, pp. 8307, 2023.
-
 [13] Yicheng Di, **Hongjian Shi**, Xiaoming Wang, Ruhui Ma, Yuan Liu. Federated Recommender System Based on Diffusion Augmentation and Guided Denoising. ACM Transactions on Information Systems, vol. 43, no. 2, pp. 1-36, 2025.
-
 [14] Shuming Fan, **Hongjian Shi**, Chenpei Wang, Ruhui Ma, Xiaoming Wang. RFL-LSU: A Robust Federated Learning Approach with Localized Stepwise Updates. ACM Transactions on Internet Technology, vol. 24, no. 4, pp. 1-26, 2024.
-
 [15] Yicheng Di, **Hongjian Shi**, Qi Wang, Shunyuan Jia, Jiayu Bao, Yuan Liu. Federated cross-domain recommendation system based on bias eliminator and personalized extractor. Knowledge and Information Systems, vol. 67, no. 3, pp. 2935-2965, 2024.
-
 [16] Yicheng Di, **Hongjian Shi**, Jiansong Fan, Jiayu Bao, Gaoyuan Huang, Yuan Liu. Efficient federated recommender system based on Slimify Module and Feature Sharpening Module. Knowledge and Information Systems, vol. 67, pp. 6611-6644, 2025.
-
 [17] Yicheng Di, **Hongjian Shi**, Ruhui Ma, Yuan Liu, Weiyu Wang. Fine-Grained Global Modeling Learning for Personalized Federated Sequential Recommender. Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing, Accepted, 2025.
-
 [18] Yingli Peng, Chenpei Wang, **Hongjian Shi**, Ruhui Ma, Haibing Guan, Hanbo Yang. Federated Learning With Client Clustering Selection and Quality-Aware Model Aggregation. IEEE Internet of Things Journal, Early Access, 2025.
-
 [19] Shuming Fan, Chenpei Wang, Xinyu Ruan, **Hongjian Shi**, Ruhui Ma, Haibing Guan. FedREAS: A Robust Efficient Aggregation and Selection Framework for Federated Learning. ACM Transactions on Asian and Low-Resource Language Information Processing, Just Accepted, 2024.
-
-[20] Zhijie Wang, Ruhui Ma, **Hongjian Shi**, Zinuo Cai, Liwei Lin, Haibing Guan. Deep Convolutional Linear Precoder Neural Network for Rate Splitting Strategy of Aerial Computing Networks. IEEE Transactions on Network Science and Engineering, vol. 11, no. 6, pp. 5228-5243, 2024.
-
-[21] Yicheng Di, Xiaoming Wang, **Hongjian Shi**, Chongsheng Fan, Rong Zhou, Ruhui Ma. Personalized Consumer Federated Recommender System Using Fine-grained Transformation and Hybrid Information Sharing. IEEE Transactions on Consumer Electronics, vol. 71, no. 2, pp. 7254-7268, 2025.
-
-[22] Yingli Peng, Gang Yao, Zijie Zhao, Chenpei Wang, Xinyu Ruan, **Hongjian Shi**, Ruhui Ma. BFL-SE: Blockchain federated learning with secure and effective weight-assignment model aggregation. Displays, vol. 91, no. 103210, 2026.
-
-[23] Meng Zhang, **Hongjian Shi**, Ruhui Ma. Edge-Distributed IoT Services Assist the Economic Sustainability of LEO Satellite Constellation Construction. Sustainability, vol. 16, no. 4, pp. 1599, 2024.
-
-[24] Tingting Tian, **Hongjian Shi**, Ruhui Ma, Yuan Liu. FedACQ: Adaptive Clustering Quantization of Model Parameters in Federated Learning. International Journal of Web Information Systems, vol. 20, no. 1, pp. 88-110, 2023.
-
-[25] Zhijie Wang, Ruhui Ma, **Hongjian Shi**, Liwei Lin, Haibing Guan. Batch Gradient Descent-based Optimization of WMMSE for Rate Splitting Strategy. International Symposium on Wireless Communication Systems, 2022.
-
-[26] Yicheng Di, **Hongjian Shi**, Ruhui Ma, Honghao Gao, Yuan Liu, Weiyu Wang. FedRL: A Reinforcement Learning Federated Recommender System for Efficient Communication Using Reinforcement Selector and Hypernet Generator. ACM Transactions on Recommender Systems, vol. 4, no. 1, pp. 1-31, 2025.
+[20] Yicheng Di, **Hongjian Shi**, Khushal Haider Syed, Ruhui Ma, Haibing Guan, Yuan Liu, Rajkumar Buyya. PIFGSR: Pluggable framework for information fusion using generative artificial intelligence (GenAI) in recommender systems. Information Fusion, vol. 129, no. 104004, 2026.
+[21] Zhijie Wang, Ruhui Ma, **Hongjian Shi**, Zinuo Cai, Liwei Lin, Haibing Guan. Deep Convolutional Linear Precoder Neural Network for Rate Splitting Strategy of Aerial Computing Networks. IEEE Transactions on Network Science and Engineering, vol. 11, no. 6, pp. 5228-5243, 2024.
+[22] Yicheng Di, Xiaoming Wang, **Hongjian Shi**, Chongsheng Fan, Rong Zhou, Ruhui Ma. Personalized Consumer Federated Recommender System Using Fine-grained Transformation and Hybrid Information Sharing. IEEE Transactions on Consumer Electronics, vol. 71, no. 2, pp. 7254-7268, 2025.
+[23] Yingli Peng, Gang Yao, Zijie Zhao, Chenpei Wang, Xinyu Ruan, **Hongjian Shi**, Ruhui Ma. BFL-SE: Blockchain federated learning with secure and effective weight-assignment model aggregation. Displays, vol. 91, no. 103210, 2026.
+[24] Jiayu Bao, **Hongjian Shi**, Ziang Zhou, Shiquan Wang, Ruhui Ma, Yang Yue, Zhiwei Song, Haibing Guan, Yuan Liu. A Distributed Robust Out-of-Distribution Consumer Recommendation System Using Diffusion Model. IEEE Transactions on Consumer Electronics, Early Access, 2025.
+[25] Meng Zhang, **Hongjian Shi**, Ruhui Ma. Edge-Distributed IoT Services Assist the Economic Sustainability of LEO Satellite Constellation Construction. Sustainability, vol. 16, no. 4, pp. 1599, 2024.
+[26] Tingting Tian, **Hongjian Shi**, Ruhui Ma, Yuan Liu. FedACQ: Adaptive Clustering Quantization of Model Parameters in Federated Learning. International Journal of Web Information Systems, vol. 20, no. 1, pp. 88-110, 2023.
+[27] Zhijie Wang, Ruhui Ma, **Hongjian Shi**, Liwei Lin, Haibing Guan. Batch Gradient Descent-based Optimization of WMMSE for Rate Splitting Strategy. International Symposium on Wireless Communication Systems, 2022.
+[28] Yicheng Di, **Hongjian Shi**, Ruhui Ma, Honghao Gao, Yuan Liu, Weiyu Wang. FedRL: A Reinforcement Learning Federated Recommender System for Efficient Communication Using Reinforcement Selector and Hypernet Generator. ACM Transactions on Recommender Systems, vol. 4, no. 1, pp. 1-31, 2025.
+[29] Ilyas Bayanbayev, **Hongjian Shi**, Ruhui Ma. Balancing Efficiency and Personalization in Federated Learning via Blockwise Knowledge Distillation. Chinese Journal of Electronics, vol. 34, no. 3, pp. 1006-1008, 2025.
 
 ## Patents
 
