@@ -37,7 +37,7 @@ E-mail: shhjwu5@sjtu.edu.cn
 |[15]**FedBP**|B|4|-|3.1|6.50%|[link](https://dl.acm.org/doi/10.1007/s10115-024-02316-y)|Published|2024-12-30|
 |[16]**FedMS**|B|4|-|3.1|6.50%|[link](https://link.springer.com/article/10.1007/s10115-025-02433-2)|Published|2025-04-24|
 |[17]**FedSR**|B|-|-|-|-|[link](https://doi.org/10.1109/ICASSP49660.2025.10889033)|Accepted|2025-03-07|
-|[18]**Fed-CCSQMA**|C|2|-|8.9|15.70%|[link](https://doi.org/10.1109/JIOT.2025.3572901)|Early Access|2025-05-23|
+|[18]**Fed-CCSQMA**|C|2|-|8.9|15.70%|[link](https://doi.org/10.1109/JIOT.2025.3572901)|Published|2025-05-23|
 |[19]**FedREAS**|C|4|-|1.8|22.20%|[link](https://doi.org/10.1145/3670689)|Just Accepted|2024-06-04|
 |[20]**PIFGSR**|-|1|-|15.5|10.30%|[link](https://doi.org/10.1016/j.inffus.2025.104004)|Published|2025-11-27|
 |[21]**RSMA+CSI**|-|2|-|6.6|9.10%|[link](http://dx.doi.org/10.1109/TNSE.2024.3357104)|Published|2024-01-23|
@@ -84,7 +84,7 @@ E-mail: shhjwu5@sjtu.edu.cn
 
 [17] Yicheng Di, **Hongjian Shi**, Ruhui Ma, Yuan Liu, Weiyu Wang. Fine-Grained Global Modeling Learning for Personalized Federated Sequential Recommender. Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing, Accepted, 2025.
 
-[18] Yingli Peng, Chenpei Wang, **Hongjian Shi**, Ruhui Ma, Haibing Guan, Hanbo Yang. Federated Learning With Client Clustering Selection and Quality-Aware Model Aggregation. IEEE Internet of Things Journal, Early Access, 2025.
+[18] Yingli Peng, Chenpei Wang, **Hongjian Shi**, Ruhui Ma, Haibing Guan, Hanbo Yang. Federated Learning With Client Clustering Selection and Quality-Aware Model Aggregation. IEEE Internet of Things Journal, vol. 12, no. 19, pp. 39247-39259, 2025.
 
 [19] Shuming Fan, Chenpei Wang, Xinyu Ruan, **Hongjian Shi**, Ruhui Ma, Haibing Guan. FedREAS: A Robust Efficient Aggregation and Selection Framework for Federated Learning. ACM Transactions on Asian and Low-Resource Language Information Processing, Just Accepted, 2024.
 
