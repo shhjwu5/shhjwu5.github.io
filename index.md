@@ -80,7 +80,7 @@ E-mail: shhjwu5@sjtu.edu.cn
 
 [15] Yicheng Di, **Hongjian Shi**, Qi Wang, Shunyuan Jia, Jiayu Bao, Yuan Liu. Federated cross-domain recommendation system based on bias eliminator and personalized extractor. Knowledge and Information Systems, vol. 67, no. 3, pp. 2935-2965, 2024.
 
-[16] Yicheng Di, **Hongjian Shi**, Jiansong Fan, Jiayu Bao, Gaoyuan Huang, Yuan Liu. Efficient federated recommender system based on Slimify Module and Feature Sharpening Module. Knowledge and Information Systems, vol. 67, pp. 6611-6644, 2025.
+[16] Yicheng Di, **Hongjian Shi**, Jiansong Fan, Jiayu Bao, Gaoyuan Huang, Yuan Liu. Efficient federated recommender system based on Slimify Module and Feature Sharpening Module. Knowledge and Information Systems, vol. 67, no. 7, pp. 6611-6644, 2025.
 
 [17] Yicheng Di, **Hongjian Shi**, Ruhui Ma, Yuan Liu, Weiyu Wang. Fine-Grained Global Modeling Learning for Personalized Federated Sequential Recommender. Proceedings of 2025 IEEE International Conference on Acoustics, Speech and Signal Processing, Accepted, 2025.
 
