@@ -34,7 +34,7 @@ E-mail: shhjwu5@sjtu.edu.cn
 |[12]**NIDS-FS**|-|4|Corresponding|2.7|11.10%|[link](https://doi.org/10.3390/app13148307)|Published|2023-07-18|
 |[13]**DGFedRS**|A|2|-|5.4|14.80%|[link](https://dl.acm.org/doi/10.1145/3688570)|Published|2025-01-17|
 |[14]**RFL-LSU**|B|3|-|4.1|2.40%|[link](https://dl.acm.org/doi/abs/10.1145/3690822)|Published|2024-11-15|
-|[15]**FedBP**|B|4|-|3.1|6.50%|[link](https://dl.acm.org/doi/10.1007/s10115-024-02316-y)|Published|2024-12-30|
+|[15]**FedBP**|B|4|-|3.1|6.50%|[link](https://link.springer.com/article/10.1007/s10115-024-02316-y)|Published|2024-12-30|
 |[16]**FedMS**|B|4|-|3.1|6.50%|[link](https://link.springer.com/article/10.1007/s10115-025-02433-2)|Published|2025-04-24|
 |[17]**FedSR**|B|-|-|-|-|[link](https://doi.org/10.1109/ICASSP49660.2025.10889033)|Accepted|2025-03-07|
 |[18]**Fed-CCSQMA**|C|2|-|8.9|15.70%|[link](https://doi.org/10.1109/JIOT.2025.3572901)|Published|2025-05-23|
