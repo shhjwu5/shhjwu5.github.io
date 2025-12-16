@@ -18,37 +18,37 @@ E-mail: shhjwu5@sjtu.edu.cn
 
 ## Published Papers
 
-|Reference|CCF|SCI|Author|Influence Score|Self citation|link|Status|Date|
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-|[1]**AP2**|A|1|First|16.4|4.30%|[link](https://doi.org/10.1109/JSAC.2023.3280970)|Published|2023-05-29|
-|[2]**半中心化**|T1|-|First|-|-|[link](https://doi.org/10.7544/issn1000-1239.202330286)|Published|2023-11-15|
-|[3]**RSGCM**|B|3|First|5.1|5.90%|[link](https://doi.org/10.1145/3549939)|Published|2023-09-27|
-|[4]**CALFA**|B|4|First|4.1|7.30%|[link](https://dl.acm.org/doi/abs/10.1145/3628431)|Just Accepted|2023-10-21|
-|[5]**EG-CPS**|B|3|First|3.5|0.00%|[link](https://dl.acm.org/doi/abs/10.1145/3624985)|Published|2024-10-08|
-|[6]**HACL**|-|2|First|9.3|2.20%|[link](https://doi.org/10.1109/MNET.001.2200382)|Published|2023-09-05|
-|[7]**pFedEff**|-|3|First|5|10.00%|[link](https://doi.org/10.1109/TCDS.2023.3288985)|Published|2023-06-26|
-|[8]**eFRSA2**|-|-|First|-|-|[link](https://dl.acm.org/doi/10.1145/3704267)|Published|2025-03-22|
-|[9]**FedCPSO**|-|-|First|-|-|[link](http://dx.doi.org/10.1109/CAC59555.2023.10451632)|Published|2024-03-19|
-|[10]**cFedDT**|-|2|-|4.3|9.30%|[link](http://dx.doi.org/10.1109/TCE.2023.3327010)|Published|2023-10-24|
-|[11]**FedVB**|-|3|Corresponding|2.9|10.30%|[link](https://doi.org/10.3390/electronics12194049)|Published|2023-09-27|
-|[12]**NIDS-FS**|-|4|Corresponding|2.7|11.10%|[link](https://doi.org/10.3390/app13148307)|Published|2023-07-18|
-|[13]**DGFedRS**|A|2|-|5.4|14.80%|[link](https://dl.acm.org/doi/10.1145/3688570)|Published|2025-01-17|
-|[14]**RFL-LSU**|B|3|-|4.1|2.40%|[link](https://dl.acm.org/doi/abs/10.1145/3690822)|Published|2024-11-15|
-|[15]**FedBP**|B|4|-|3.1|6.50%|[link](https://link.springer.com/article/10.1007/s10115-024-02316-y)|Published|2024-12-30|
-|[16]**FedMS**|B|4|-|3.1|6.50%|[link](https://link.springer.com/article/10.1007/s10115-025-02433-2)|Published|2025-04-24|
-|[17]**FedSR**|B|-|-|-|-|[link](https://doi.org/10.1109/ICASSP49660.2025.10889033)|Accepted|2025-03-07|
-|[18]**Fed-CCSQMA**|C|2|-|8.9|15.70%|[link](https://doi.org/10.1109/JIOT.2025.3572901)|Published|2025-05-23|
-|[19]**FedREAS**|C|4|-|1.8|22.20%|[link](https://doi.org/10.1145/3670689)|Just Accepted|2024-06-04|
-|[20]**PIFGSR**|-|1|-|15.5|10.30%|[link](https://doi.org/10.1016/j.inffus.2025.104004)|Published|2025-11-27|
-|[21]**RSMA+CSI**|-|2|-|6.6|9.10%|[link](http://dx.doi.org/10.1109/TNSE.2024.3357104)|Published|2024-01-23|
-|[22]**PCFedRec**|-|2|-|4.3|9.30%|[link](https://doi.org/10.1109/TCE.2025.3526427)|Published|2025-01-06|
-|[23]**BFL-SE**|-|2|-|3.4|20.60%|[link](https://doi.org/10.1016/j.displa.2025.103210)|Published|2025-09-08|
-|[24]**DiffDRG**|-|2|-|4.3|9.30%|[link](https://doi.org/10.1109/TCE.2025.3624922)|Early Access|2025-10-23|
-|[25]**EDIJP**|-|3|-|3.9|20.50%|[link](http://dx.doi.org/10.3390/su16041599)|Published|2024-02-14|
-|[26]**FedACQ**|-|-|-|1.6|0.00%|[link](http://dx.doi.org/10.1108/IJWIS-08-2023-0128)|Published|2023-10-22|
-|[27]**BGD-WMMSE**|-|-|-|-|-|[link](http://dx.doi.org/10.1109/ISWCS56560.2022.9940341)|Published|2022-11-16|
-|[28]**FedRL**|-|-|-|-|-|[link](https://doi.org/10.1145/3682076)|Published|2025-07-29|
-|[29]**FedBW**|-|3|-|3|10.00%|[link](https://doi.org/10.23919/cje.2023.00.424)|Published|2025-05|
+|#|Reference|CCF|SCI|Author|Influence Score|Self citation|link|Status|Date|
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+|[1]|**AP2**|A|1|First|16.4|4.30%|[link](https://doi.org/10.1109/JSAC.2023.3280970)|Published|2023-05-29|
+|[2]|**半中心化**|T1|-|First|-|-|[link](https://doi.org/10.7544/issn1000-1239.202330286)|Published|2023-11-15|
+|[3]|**RSGCM**|B|3|First|5.1|5.90%|[link](https://doi.org/10.1145/3549939)|Published|2023-09-27|
+|[4]|**CALFA**|B|4|First|4.1|7.30%|[link](https://dl.acm.org/doi/abs/10.1145/3628431)|Just Accepted|2023-10-21|
+|[5]|**EG-CPS**|B|3|First|3.5|0.00%|[link](https://dl.acm.org/doi/abs/10.1145/3624985)|Published|2024-10-08|
+|[6]|**HACL**|-|2|First|9.3|2.20%|[link](https://doi.org/10.1109/MNET.001.2200382)|Published|2023-09-05|
+|[7]|**pFedEff**|-|3|First|5|10.00%|[link](https://doi.org/10.1109/TCDS.2023.3288985)|Published|2023-06-26|
+|[8]|**eFRSA2**|-|-|First|-|-|[link](https://dl.acm.org/doi/10.1145/3704267)|Published|2025-03-22|
+|[9]|**FedCPSO**|-|-|First|-|-|[link](http://dx.doi.org/10.1109/CAC59555.2023.10451632)|Published|2024-03-19|
+|[10]|**cFedDT**|-|2|-|4.3|9.30%|[link](http://dx.doi.org/10.1109/TCE.2023.3327010)|Published|2023-10-24|
+|[11]|**FedVB**|-|3|Corresponding|2.9|10.30%|[link](https://doi.org/10.3390/electronics12194049)|Published|2023-09-27|
+|[12]|**NIDS-FS**|-|4|Corresponding|2.7|11.10%|[link](https://doi.org/10.3390/app13148307)|Published|2023-07-18|
+|[13]|**DGFedRS**|A|2|-|5.4|14.80%|[link](https://dl.acm.org/doi/10.1145/3688570)|Published|2025-01-17|
+|[14]|**RFL-LSU**|B|3|-|4.1|2.40%|[link](https://dl.acm.org/doi/abs/10.1145/3690822)|Published|2024-11-15|
+|[15]|**FedBP**|B|4|-|3.1|6.50%|[link](https://link.springer.com/article/10.1007/s10115-024-02316-y)|Published|2024-12-30|
+|[16]|**FedMS**|B|4|-|3.1|6.50%|[link](https://link.springer.com/article/10.1007/s10115-025-02433-2)|Published|2025-04-24|
+|[17]|**FedSR**|B|-|-|-|-|[link](https://doi.org/10.1109/ICASSP49660.2025.10889033)|Accepted|2025-03-07|
+|[18]|**Fed-CCSQMA**|C|2|-|8.9|15.70%|[link](https://doi.org/10.1109/JIOT.2025.3572901)|Published|2025-05-23|
+|[19]|**FedREAS**|C|4|-|1.8|22.20%|[link](https://doi.org/10.1145/3670689)|Just Accepted|2024-06-04|
+|[20]|**PIFGSR**|-|1|-|15.5|10.30%|[link](https://doi.org/10.1016/j.inffus.2025.104004)|Published|2025-11-27|
+|[21]|**RSMA+CSI**|-|2|-|6.6|9.10%|[link](http://dx.doi.org/10.1109/TNSE.2024.3357104)|Published|2024-01-23|
+|[22]|**PCFedRec**|-|2|-|4.3|9.30%|[link](https://doi.org/10.1109/TCE.2025.3526427)|Published|2025-01-06|
+|[23]|**BFL-SE**|-|2|-|3.4|20.60%|[link](https://doi.org/10.1016/j.displa.2025.103210)|Published|2025-09-08|
+|[24]|**DiffDRG**|-|2|-|4.3|9.30%|[link](https://doi.org/10.1109/TCE.2025.3624922)|Early Access|2025-10-23|
+|[25]|**EDIJP**|-|3|-|3.9|20.50%|[link](http://dx.doi.org/10.3390/su16041599)|Published|2024-02-14|
+|[26]|**FedACQ**|-|-|-|1.6|0.00%|[link](http://dx.doi.org/10.1108/IJWIS-08-2023-0128)|Published|2023-10-22|
+|[27]|**BGD-WMMSE**|-|-|-|-|-|[link](http://dx.doi.org/10.1109/ISWCS56560.2022.9940341)|Published|2022-11-16|
+|[28]|**FedRL**|-|-|-|-|-|[link](https://doi.org/10.1145/3682076)|Published|2025-07-29|
+|[29]|**FedBW**|-|3|-|3|10.00%|[link](https://doi.org/10.23919/cje.2023.00.424)|Published|2025-05|
 
 [1] **Hongjian Shi**, Weichu Zheng, Zifei Liu, Ruhui Ma, and Haibing Guan. Automatic Pipeline Parallelism: A Parallel Inference Framework for Deep Learning Applications in 6G Mobile Communication Systems. IEEE Journal on Selected Areas in Communications, vol. 41, no. 7, pp. 2041-2056, 2023. 
 
@@ -110,14 +110,14 @@ E-mail: shhjwu5@sjtu.edu.cn
 
 ## Patents
 
-|Name|Patent ID|Published Date|
-| ---- | ---- | ---- |
-|[1]一种基于原型的医疗多模态分布式机器学习系统|CN202511545183.X|2025-10-27|
-|[2]一种具备拜占庭鲁棒性的智能交通量子联邦学习系统|CN202511545198.6|2025-10-27|
-|[3]一种使用个性化资源库和意图识别机制的推荐系统和方法|CN202511545171.7|2025-10-27|
-|[4]一种面向分布外推荐的扩散分布式鲁棒图模型|CN202511544968.5|2025-10-27|
-|[5]基于细粒度转换和混合信息共享的用户推荐系统和方法|CN202511340194.4|2025-09-18|
-|[6]一种基于中立化处理器和个体偏好分析器的跨域推荐系统|CN202510815275.9|2025-06-17|
-|[7]一种联邦网络入侵检测方法、系统、电子设备及介质|CN202311779550.3|2023-12-22|
-|[8]基于回合制更新及客户端权重优化的区块链联邦学习方法|CN202310507957.4|2023-05-06|
-|[9]一种基于层次化指标筛选的区块链联邦学习安全聚合框架|CN202310368919.5|2023-04-06|
+|#|Name|Patent ID|Published Date|
+| ---- | ---- | ---- | ---- |
+|[1]|一种基于原型的医疗多模态分布式机器学习系统|CN202511545183.X|2025-10-27|
+|[2]|一种具备拜占庭鲁棒性的智能交通量子联邦学习系统|CN202511545198.6|2025-10-27|
+|[3]|一种使用个性化资源库和意图识别机制的推荐系统和方法|CN202511545171.7|2025-10-27|
+|[4]|一种面向分布外推荐的扩散分布式鲁棒图模型|CN202511544968.5|2025-10-27|
+|[5]|基于细粒度转换和混合信息共享的用户推荐系统和方法|CN202511340194.4|2025-09-18|
+|[6]|一种基于中立化处理器和个体偏好分析器的跨域推荐系统|CN202510815275.9|2025-06-17|
+|[7]|一种联邦网络入侵检测方法、系统、电子设备及介质|CN202311779550.3|2023-12-22|
+|[8]|基于回合制更新及客户端权重优化的区块链联邦学习方法|CN202310507957.4|2023-05-06|
+|[9]|一种基于层次化指标筛选的区块链联邦学习安全聚合框架|CN202310368919.5|2023-04-06|
