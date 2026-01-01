@@ -1,3 +1,3 @@
-# Welcome to shhjwu5's knowledge!
+# Welcome to shhjwu5's recommendations!
 
-Those are the knowledge of Hongjian Shi.
+Those are the recommendations of Hongjian Shi.
