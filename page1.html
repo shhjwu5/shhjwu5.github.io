@@ -74,7 +74,7 @@
     <!-- Markdown内容渲染容器 -->
     <div id="markdownContent" class="markdown-content"></div>
     
-    <button class="btn logout-btn" onclick="auth.logout()">退出登录</button>
+    <!-- <button class="btn logout-btn" onclick="auth.logout()">退出登录</button> -->
     <br>
     <a href="index.html" style="margin-top: 10px; display: inline-block;">返回主页</a>
   </main>
@@ -83,7 +83,7 @@
     // 页面加载时验证登录状态
     window.onload = async function() {
       // 1. 验证登录状态
-      auth.protectPage();
+      // auth.protectPage();
       
       // 2. 加载并渲染Markdown文件
       try {
