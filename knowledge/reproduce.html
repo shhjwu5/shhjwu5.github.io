@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>方法复现</title>
+  <link rel="stylesheet" href="../style.css">
+  <!-- 引入 Markdown 解析库 -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <!-- 引入代码高亮库 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/github.min.css">
+  <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/highlight.min.js"></script>
+  <!-- Markdown 样式优化 -->
+  <style>
+    .markdown-content {
+      line-height: 1.8;
+    }
+    .markdown-content h1 { font-size: 28px; margin: 20px 0 15px; color: #2c3e50; }
+    .markdown-content h2 { font-size: 24px; margin: 18px 0 12px; color: #34495e; border-bottom: 1px solid #eee; padding-bottom: 5px; }
+    .markdown-content p { margin: 10px 0; }
+    .markdown-content ul { margin: 10px 0 10px 20px; }
+    .markdown-content pre { background: #f8f8f8; padding: 15px; border-radius: 4px; overflow-x: auto; }
+    .markdown-content code { background: #f1f1f1; padding: 2px 4px; border-radius: 3px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>方法复现</h1>
+  </header>
+
+  <main class="protected-page">
+    <!-- Markdown 内容容器（必须有） -->
+    <div id="markdownContent" class="markdown-content"></div>
+    
+    <!-- 返回主页链接（路径正确） -->
+    <button class="btn logout-btn" onclick="auth.logout()">退出登录</button>
+    <br>
+    <a href="../knowledge.html" style="margin-top: 10px; display: inline-block;">返回上一级</a>
+  </main>
+
+  <script>
+    window.onload = async function() {
+      // 如需登录验证，取消下面注释；无需则保留注释
+      // if (typeof auth !== 'undefined') auth.protectPage();
+
+      try {
+        // 关键：加载同一目录下的 reproduce.md（路径必须正确）
+        const response = await fetch('reproduce.md');
+        if (!response.ok) throw new Error(`文件未找到（状态码：${response.status}）`);
+        
+        const markdownText = await response.text();
+        // 配置 marked 解析器
+        marked.setOptions({
+          highlight: (code, lang) => {
+            if (lang && hljs.getLanguage(lang)) return hljs.highlight(code, { language: lang }).value;
+            return hljs.highlightAuto(code).value;
+          },
+          breaks: true,
+          gfm: true
+        });
+        // 渲染 Markdown 到容器
+        document.getElementById('markdownContent').innerHTML = marked.parse(markdownText);
+        // 代码高亮
+        document.querySelectorAll('pre code').forEach(block => hljs.highlightElement(block));
+      } catch (error) {
+        // 错误提示（方便排查）
+        document.getElementById('markdownContent').innerHTML = `
+          <div style="color: #e74c3c; padding: 20px; border-radius: 4px;">
+            <h3>加载失败</h3>
+            <p>错误信息：${error.message}</p>
+            <p>排查步骤：</p>
+            <ol>
+              <li>检查是否存在 basics.md 文件</li>
+              <li>确认 basics.md 和 basics.html 在同一目录</li>
+              <li>检查文件名是否拼写正确（大小写敏感）</li>
+            </ol>
+          </div>
+        `;
+        console.error('Basics 页面加载错误:', error);
+      }
+    };
+  </script>
+</body>
+</html>

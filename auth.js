@@ -7,9 +7,9 @@ const VALID_USERS = [
     nickname: "管理员"
   },
   {
-    username: "Xue",
+    username: "gmx",
     password: "001212",
-    nickname: "普通用户1"
+    nickname: "亲爱的雪队"
   }
   // 如需添加更多用户，直接按上述格式新增对象即可
 ];
