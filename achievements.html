@@ -1,12 +1,11 @@
 
-### 2. 修改后的 page1.html（加载并渲染 Markdown）
 ```html
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>个人项目展示</title>
+  <title>个人成果</title>
   <link rel="stylesheet" href="style.css">
   <!-- 引入Markdown解析库 -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -67,7 +66,7 @@
 </head>
 <body>
   <header>
-    <h1>个人项目展示</h1>
+    <h1>个人成果</h1>
   </header>
 
   <main class="protected-page">
@@ -87,8 +86,8 @@
       
       // 2. 加载并渲染Markdown文件
       try {
-        // 发起请求加载page1.md文件
-        const response = await fetch('page1.md');
+        // 发起请求加载achievements.md文件
+        const response = await fetch('achievements.md');
         if (!response.ok) {
           throw new Error('Markdown文件加载失败');
         }
