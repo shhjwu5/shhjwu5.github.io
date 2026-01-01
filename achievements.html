@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>个人成果</title>
   <link rel="stylesheet" href="style.css">
-  <script src="auth.js"></script>
   <style>
     /* 二级目录专属样式优化 */
     .sub-directory {
@@ -46,7 +45,6 @@
     
     <p>这是二级目录页，点击链接可进入具体的子子笔记页面。</p>
     
-    <button class="btn logout-btn" onclick="auth.logout()">退出登录</button>
     <br>
     <a href="index.html" style="margin-top: 10px; display: inline-block;">返回主页</a>
   </main>
@@ -54,7 +52,6 @@
   <script>
     // 页面加载时验证登录状态
     window.onload = function() {
-      <!-- auth.protectPage(); -->
 
       // 可选：展示当前登录用户信息
       const currentUser = auth.getCurrentUser();
