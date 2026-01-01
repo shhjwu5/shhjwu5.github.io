@@ -10,7 +10,7 @@
   <!-- 引入代码高亮库（可选，增强代码展示效果） -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/github.min.css">
   <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/highlight.min.js"></script>
-  <script src="auth.js"></script>
+  <script src="../auth.js"></script>
   <!-- 自定义Markdown渲染样式 -->
   <style>
     /* Markdown内容样式优化 */
@@ -73,7 +73,7 @@
     
     <button class="btn logout-btn" onclick="auth.logout()">退出登录</button>
     <br>
-    <a href="index.html" style="margin-top: 10px; display: inline-block;">返回主页</a>
+    <a href="../index.html" style="margin-top: 10px; display: inline-block;">返回主页</a>
   </main>
 
   <script>
@@ -85,7 +85,7 @@
       // 2. 加载并渲染Markdown文件
       try {
         // 发起请求加载papers.md文件
-        const response = await fetch('papers.md');
+        const response = await fetch('achievements/papers.md');
         if (!response.ok) {
           throw new Error('Markdown文件加载失败');
         }
