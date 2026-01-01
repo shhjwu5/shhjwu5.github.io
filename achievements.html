@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>个人成果</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="auth.js"></script>
+  <style>
+    /* 二级目录专属样式优化 */
+    .sub-directory {
+      background: #f9f9f9;
+      padding: 20px;
+      border-radius: 6px;
+      margin: 15px 0;
+    }
+    .sub-directory h3 {
+      color: #2c3e50;
+      margin-bottom: 15px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>个人成果</h1>
+  </header>
+
+  <main class="protected-page">
+    <h2>个人成果二级目录</h2>
+    
+    <!-- 二级目录列表 -->
+    <div class="sub-directory">
+      <h3>基本信息</h3>
+      <ul>
+        <li><a href="achievements/basics.html">基本信息</a></li>
+      </ul>
+    </div>
+
+    <div class="sub-directory">
+      <h3>科研成果</h3>
+      <ul>
+        <li><a href="achievements/papers.html">论文成果</a></li>
+        <li><a href="achievements/patents.html">专利成果</a></li>
+      </ul>
+    </div>
+    
+    <p>这是二级目录页，点击链接可进入具体的子子笔记页面。</p>
+    
+    <button class="btn logout-btn" onclick="auth.logout()">退出登录</button>
+    <br>
+    <a href="index.html" style="margin-top: 10px; display: inline-block;">返回主页</a>
+  </main>
+
+  <script>
+    // 页面加载时验证登录状态
+    window.onload = function() {
+      auth.protectPage();
+
+      // 可选：展示当前登录用户信息
+      const currentUser = auth.getCurrentUser();
+      if (currentUser) {
+        const welcomeDiv = document.createElement('div');
+        welcomeDiv.style.marginBottom = '20px';
+        welcomeDiv.style.padding = '10px';
+        welcomeDiv.style.backgroundColor = '#e3f2fd';
+        welcomeDiv.style.borderRadius = '4px';
+        welcomeDiv.innerHTML = `<strong>欢迎你，${currentUser.nickname}！</strong>`;
+        document.querySelector('.protected-page').prepend(welcomeDiv);
+      }
+    };
+  </script>
+</body>
+</html>
