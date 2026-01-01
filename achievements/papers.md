@@ -1,21 +1,3 @@
-# Welcome to shhjwu5's achievements!
-
-Those are the achievements of Hongjian Shi.
-[Google Scholar](https://scholar.google.com/citations?user=wMJVGfAAAAAJ)  [Semantic Scholar](https://www.semanticscholar.org/author/Hongjian-Shi/2112515196)  [DBLP](https://dblp.org/pid/18/5755.html)  [ORCID](https://orcid.org/0000-0003-0743-7806)
-
-## Introduction
-
-Hongjian Shi is currently a Ph.D. student at Shanghai Jiao Tong University. His research interests include Cloud Computing, Distributed Machine Learning, AI Systems, and Federated Learning. He has published 29 scientific papers and applied for 9 patents.
-
-## Contact Information
-
-E-mail: shhjwu5@sjtu.edu.cn
-
-## Education
-
-- 2017.9.1 - 2021.7.15 Bachelor, School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China
-- 2021.9.1 - present Ph.D., School of Computer Science, Shanghai Jiao Tong University, Shanghai, China
-
 ## Published Papers
 
 |#|Reference|CCF|SCI|Author|Influence Score|Self citation|link|Status|Date|
@@ -107,17 +89,3 @@ E-mail: shhjwu5@sjtu.edu.cn
 [28] Yicheng Di, **Hongjian Shi**, Ruhui Ma, Honghao Gao, Yuan Liu, Weiyu Wang. FedRL: A Reinforcement Learning Federated Recommender System for Efficient Communication Using Reinforcement Selector and Hypernet Generator. ACM Transactions on Recommender Systems, vol. 4, no. 1, pp. 1-31, 2025.
 
 [29] Ilyas Bayanbayev, **Hongjian Shi**, Ruhui Ma. Balancing Efficiency and Personalization in Federated Learning via Blockwise Knowledge Distillation. Chinese Journal of Electronics, vol. 34, no. 3, pp. 1006-1008, 2025.
-
-## Patents
-
-|#|Name|Patent ID|Published Date|
-| ---- | ---- | ---- | ---- |
-|[1]|一种基于原型的医疗多模态分布式机器学习系统|CN202511545183.X|2025-10-27|
-|[2]|一种具备拜占庭鲁棒性的智能交通量子联邦学习系统|CN202511545198.6|2025-10-27|
-|[3]|一种使用个性化资源库和意图识别机制的推荐系统和方法|CN202511545171.7|2025-10-27|
-|[4]|一种面向分布外推荐的扩散分布式鲁棒图模型|CN202511544968.5|2025-10-27|
-|[5]|基于细粒度转换和混合信息共享的用户推荐系统和方法|CN202511340194.4|2025-09-18|
-|[6]|一种基于中立化处理器和个体偏好分析器的跨域推荐系统|CN202510815275.9|2025-06-17|
-|[7]|一种联邦网络入侵检测方法、系统、电子设备及介质|CN202311779550.3|2023-12-22|
-|[8]|基于回合制更新及客户端权重优化的区块链联邦学习方法|CN202310507957.4|2023-05-06|
-|[9]|一种基于层次化指标筛选的区块链联邦学习安全聚合框架|CN202310368919.5|2023-04-06|
