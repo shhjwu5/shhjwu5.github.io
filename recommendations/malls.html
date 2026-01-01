@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>论文筛选机制</title>
+  <title>商场</title>
   <link rel="stylesheet" href="../style.css">
   <!-- 引入 Markdown 解析库 -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -25,7 +25,7 @@
 </head>
 <body>
   <header>
-    <h1>论文筛选机制</h1>
+    <h1>商场</h1>
   </header>
 
   <main class="protected-page">
@@ -35,7 +35,7 @@
     <!-- 返回主页链接（路径正确） -->
     <button class="btn logout-btn" onclick="auth.logout()">退出登录</button>
     <br>
-    <a href="../knowledge.html" style="margin-top: 10px; display: inline-block;">返回上一级</a>
+    <a href="../recommendations.html" style="margin-top: 10px; display: inline-block;">返回上一级</a>
   </main>
 
   <script>
@@ -44,8 +44,8 @@
       // if (typeof auth !== 'undefined') auth.protectPage();
 
       try {
-        // 关键：加载同一目录下的 filter.md（路径必须正确）
-        const response = await fetch('filter.md');
+        // 关键：加载同一目录下的 malls.md（路径必须正确）
+        const response = await fetch('malls.md');
         if (!response.ok) throw new Error(`文件未找到（状态码：${response.status}）`);
         
         const markdownText = await response.text();
