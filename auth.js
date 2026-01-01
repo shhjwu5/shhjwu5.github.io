@@ -3,7 +3,7 @@
 const VALID_USERS = [
   {
     username: "shhjwu5",
-    password: "Love5555",
+    password: "daqiezi1234",
     nickname: "管理员"
   },
   {
