@@ -1,6 +1,6 @@
-# Welcome to shhjwu5's homepage!
+# Welcome to shhjwu5's achievements!
 
-This is the homepage of Hongjian Shi.
+Those are the achievements of Hongjian Shi.
 [Google Scholar](https://scholar.google.com/citations?user=wMJVGfAAAAAJ)  [Semantic Scholar](https://www.semanticscholar.org/author/Hongjian-Shi/2112515196)  [DBLP](https://dblp.org/pid/18/5755.html)  [ORCID](https://orcid.org/0000-0003-0743-7806)
 
 ## Introduction
